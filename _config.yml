@@ -9,7 +9,7 @@ url: "https://ubiies.github.io" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 김은비 # add your name
+author: Eunbi # add your name
 author-img: hi.jpeg # add your photo
 about-author: 안녕하세요. 여기는 개발 공부하는 블로그입니다! # add description
 social-twitter: # add your Twitter handle
